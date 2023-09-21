@@ -1,0 +1,6 @@
+.venv/
+
+littlelemon/__pycache__/
+
+restaurant/__pycache__/
+restaurant/migrations/__pycache__/
